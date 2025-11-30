@@ -13,3 +13,5 @@ npm run test
 # Coverage
 npm run coverage
 ```
+
+[Info Test API Reference Vitest](https://vitest.dev/api/)
